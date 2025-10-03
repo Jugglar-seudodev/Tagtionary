@@ -16,13 +16,19 @@ Todos los tags se obtiene de la wiki de danbooru: https://danbooru.donmai.us/wik
 
 <img width="2162" height="969" alt="tagtionary" src="https://github.com/user-attachments/assets/267c7c3f-c59a-491d-ae61-0d7d2bfe40a4" />
 
-# Run / Ejecutar
-* The code is already displayed so that it is only necessary to invoke it<br>
-* El codigo ya se encuentra desplegado para que solo sea necesario invocarlo
+## Requirements / Requerimientos
+### For the Daemon
+- Python 3.10
+- pillow
 
+ ```bash
+  pip install pillow
+  ```
+
+## CLI Usage / Uso
+* The code is already displayed so that it is only necessary to Run the downloader directly:<br>
+* El codigo ya se encuentra desplegado para que solo sea necesario ejecutarlo<br>
+
+```bash
 python Tagtionary.py
-
-# Library that can and is necessary to install
-# Libreria que puede y sea necesaria instalar
-pip install pillow
-
+ ```
