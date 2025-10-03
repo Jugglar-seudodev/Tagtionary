@@ -11,7 +11,7 @@ Todos los tags se obtiene de la wiki de danbooru: https://danbooru.donmai.us/wik
 # Images / Imagenes
 *Due to Github policies we decided not to upload the images folder directly, it can be downloaded from the following gdrive link, it only needs to be unzipped to the root folder<br>
 *Debido a las politicas de Github decidimos no subir la carpeta de imagenes de manera directa, esta se puede descargar del siguiente link de gdrive, solo se debe descomprimir en la carpeta raiz
-
+* https://drive.google.com/file/d/1cPnrWOVGetwvvV7QR86vFAMbNZMuoxx1/view?usp=sharing
 
 
 <img width="2162" height="969" alt="tagtionary" src="https://github.com/user-attachments/assets/267c7c3f-c59a-491d-ae61-0d7d2bfe40a4" />
